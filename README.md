@@ -1,4 +1,4 @@
-# Sana-Sprint Gradio Generator
+# Sana-Sprint local
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)

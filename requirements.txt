@@ -1,0 +1,18 @@
+# Core ML and Diffusers
+torch>=1.13.0 # Check https://pytorch.org/ for specific CUDA version if needed
+torchvision
+torchaudio
+diffusers>=0.25.0 # Sana Sprint might require a recent version
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Gradio for UI
+gradio>=3.50.0 # Or a version known to support all features used (like tooltip if re-added)
+
+# Common dependencies often needed by diffusers/transformers
+safetensors
+invisible-watermark # For some model variants or safety checkers
+
+# Optional, but good for development/type checking
+# mypy
+# ruff
